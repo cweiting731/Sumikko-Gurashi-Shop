@@ -1,0 +1,13 @@
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\bin\Debug\F74121246_Practice_3_1.exe.config
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\bin\Debug\F74121246_Practice_3_1.exe
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\bin\Debug\F74121246_Practice_3_1.pdb
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.csproj.AssemblyReference.cache
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.Form1.resources
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.Properties.Resources.resources
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.csproj.GenerateResource.cache
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.csproj.CoreCompileInputs.cache
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.exe
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.pdb
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.FrontPage.resources
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.SignInPage.resources
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 4 practice 3\F74121246_Practice_3_1\F74121246_Practice_3_1\obj\Debug\F74121246_Practice_3_1.MainPage.resources
